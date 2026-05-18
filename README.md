@@ -25,8 +25,8 @@ To run this project, you do not need to install Node.js, MongoDB, or Kafka local
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
-   cd <YOUR_REPO_NAME>
+   git clone <GITHUB_REPO_URL>
+   cd <REPO_NAME>
 2. **Start the infrastructure and application:**
    ```bash
    docker-compose up --build -d
